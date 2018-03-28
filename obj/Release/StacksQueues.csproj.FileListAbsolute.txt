@@ -1,0 +1,6 @@
+D:\GitHub\StacksAndQueues\bin\Release\StacksQueues.exe.config
+D:\GitHub\StacksAndQueues\bin\Release\StacksQueues.exe
+D:\GitHub\StacksAndQueues\bin\Release\StacksQueues.pdb
+D:\GitHub\StacksAndQueues\obj\Release\StacksQueues.csprojResolveAssemblyReference.cache
+D:\GitHub\StacksAndQueues\obj\Release\StacksQueues.exe
+D:\GitHub\StacksAndQueues\obj\Release\StacksQueues.pdb

@@ -1,0 +1,1 @@
+D:\GitHub\StacksAndQueues\bin\Debug\StacksQueues.exe.config
